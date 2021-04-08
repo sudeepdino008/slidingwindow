@@ -9,7 +9,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 author:
   fullname: msk
   github: sudeepdino008
+  twitter: sudeepdino008
    # disqus: your_disqus_forum_shortname
+
 
 # google_analytics: 'UA-XXXXXXXX-X'
 
