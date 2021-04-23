@@ -4,5 +4,7 @@
   name: Rationality
 - slug: engineering
   name: Engineering
+- slug: philosophy
+  name: Philosophy
 - slug: diary
   name: Diary

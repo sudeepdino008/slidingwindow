@@ -2,18 +2,26 @@
 layout: post
 title:  My Garage
 subtitle: 
-date:   2030-02-21 15:49:24 +0530
+date: 2021-02-23 15:49:24 +0530
 tags: garage pinned
 category: diary
 ---
 
-My friend came up with this wonderful idea of having a "garage" page, where you talk about the current projects you are doing.
+My friend Arjit came up with this wonderful idea of having a "garage" page, where you talk about the current projects you are doing.
 The idea is not feel pressurized to present a final product to the world, but having a space where people can see the projects
 and ideas you are tinkering with. This is my garage:
+
+
+# Apr 2021
+The skill tracker app is ready. Calling it Gotran (for reasons I don't remember anymore).
+![](/assets/images/gotran_home.jpg
+)
+![](/assets/images/gotran_log.jpg
+)  
+
+I'm also working on my touch typing. I've gotten around to 75 wpm on average. One area of focus has been to make lesser mistakes. Doing this by doing repetitions of typing slow (minimizing mistakes) and then typing fast.
 
 # Feb 2021
 Working on a skill/hobby tracker. It can allow easy logging of activities you want to track - category of activity, tags, and time spent.
 You can then see a list of activities. I want to then have a backend and create some interesting visualizations out of which, for which
 I want to use d3.js.
-
- 

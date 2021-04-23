@@ -1,3 +1,3 @@
 #!/usr/bin/env zsh
 set -x
-jekyll clean && jekyll build --drafts && jekyll serve --trace --incremental --drafts
+bundle exec jekyll clean && bundle exec jekyll build --drafts && bundle exec jekyll serve --trace --incremental --drafts

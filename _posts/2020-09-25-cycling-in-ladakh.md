@@ -14,6 +14,8 @@ category: diary
 ![](/assets/images/ladakh-cycling5.jpg)
 ![](/assets/images/ladakh-cycling6.jpg)
 
+Some diary entries from Ladakh:
+
 I keep mentioning that endurance activities are life intensified. It has ups and down and they keep coming - an onslaught of waves, one after the other. If life is art, maybe one can strive to gracefully transition between these ups and downs.  
 Isn't it thrilling to do this thing which I'm so scared, telling that I'm not ready for it. Well, you are in the midst of the storm. Live it, breathe it, let it pass through you and let your goal be that of relentless forward progress. Sense? We are not in search of sense here. It's about feeling extraordinary emotions and seeing what happens to you. It's an exercise in free will.  
 
